@@ -7,7 +7,7 @@ authors:
   - Gregor Betz
 publication_short: ""
 abstract: ""
-draft: false
+draft: true
 featured: true
 projects:
   - example
