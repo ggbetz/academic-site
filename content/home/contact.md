@@ -2,10 +2,10 @@
 widget: pages
 widget_id: contact
 headless: true
-weight: 130
+weight: 120
 title: Contact
 subtitle: null
-active: false
+active: true
 content:
   autolink: true
   form:
