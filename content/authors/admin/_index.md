@@ -19,12 +19,12 @@ social:
     link: https://github.com/ggbetz
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/ 0000-0001-5802-5030
+    link: https://orcid.org/0000-0001-5802-5030
   - display:
       header: false
     link: https://debatelab.github.io/
     label: DebateLab Blog
-    icon_pack: far
+    icon_pack: fas
     icon: blog
 organizations:
   - name: Karlsruhe Institute of Technology, DebateLab
