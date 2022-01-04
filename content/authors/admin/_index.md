@@ -31,9 +31,14 @@ organizations:
 education:
   courses:
     - institution: Freie Universität Berlin
-      course: MA Philosophy, Political Sciences, Mathematics
-    - institution: Science Po, Paris
-      course: Political Sciences
+      course: M.A. Philosophy, Political Sciences, Mathematics
+      year: 2002
+    - institution: Freie Universität Berlin
+      course: Dr. phil (Ph.D.) Philosophy
+      year: 2004
+    - course: Dr. phil. (Habilitation) Philosophy
+      institution: Freie Universität Berlin
+      year: 2008
 email: ""
 superuser: true
 highlight_name: true
