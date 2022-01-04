@@ -4,10 +4,7 @@ widget_id: contact
 headless: true
 weight: 120
 title: Contact
-subtitle: null
-active: true
-design:
-  columns: "2"
+subtitle: ""
 ---
 Karlsruher Institut für Technologie
 
