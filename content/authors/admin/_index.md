@@ -6,6 +6,7 @@ interests:
   - Philosophy of Science
   - Computational Philosophy
   - Argumentation
+  - Democracy
 social:
   - icon: envelope
     icon_pack: fas
