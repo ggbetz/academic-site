@@ -30,4 +30,4 @@ design:
 
 **Argumentationsanalyse.** Stuttgart: Metzler 2020. [[Amazon]](https://www.amazon.de/Argumentationsanalyse-Eine-Einf%C3%BChrung-Philosophische-Methoden/dp/3476051234/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZPDHNG5YCQ2J&keywords=Argumentationsanalyse+betz&qid=1641306508&sprefix=argumentationsanalyse+betz%2Caps%2C58&sr=8-1) [[Website]](https://argumentationsanalyse.online/)
 
-{{< icon name="graduation-cap" pack="fas" >}} Full [list of publications](https://scholar.google.com/citations?user=EPjtT9cAAAAJ).
+{{< icon name="arrow-right" pack="fas" >}} Check {{< icon name="graduation-cap" pack="fas" >}} for full [list of publications](https://scholar.google.com/citations?user=EPjtT9cAAAAJ).
