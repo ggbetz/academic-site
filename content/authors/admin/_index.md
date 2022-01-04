@@ -29,7 +29,11 @@ organizations:
   - name: Karlsruhe Institute of Technology, DebateLab
     url: https://debatelab.philosophie.kit.edu/index.php
 education:
-  courses: []
+  courses:
+    - institution: Freie Universität Berlin
+      course: MA Philosophy, Political Sciences, Mathematics
+    - institution: Science Po, Paris
+      course: Political Sciences
 email: ""
 superuser: true
 highlight_name: true
