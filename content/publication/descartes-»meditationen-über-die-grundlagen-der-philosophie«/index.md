@@ -7,7 +7,7 @@ authors:
   - GregorBetz
 publication_short: ""
 abstract: ""
-draft: false
+draft: true
 featured: true
 projects:
   - example
@@ -30,7 +30,7 @@ image:
   preview_only: false
 date: 2022-01-04T15:01:46.672Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
