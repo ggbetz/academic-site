@@ -1,49 +1,42 @@
 ---
 title: Gregor Betz
 role: Professor of Philosophy of Science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include reasoning and democracy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Philosophy of Science
+  - Computational Philosophy
+  - Argumentation
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=EPjtT9cAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ggbetz
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/ 0000-0001-5802-5030
+  - display:
+      header: false
+    link: https://debatelab.github.io/
+    label: DebateLab Blog
+    icon_pack: far
+    icon: blog
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Karlsruhe Institute of Technology, DebateLab
+    url: https://debatelab.philosophie.kit.edu/index.php
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He's been studying the limits of scientific prediction, esp. in economics and climate science, the role of values in science, requirements of democratic scientific policy advice, and the ethics of climate engineering. He has developed a formal theory and computational models of argumentative debate, and applied these methods to clarify key concepts in epistemology, to interpret classical texts, to assess consensus- and truth-conduciveness of debate, as well as to to improve critical thinking teaching.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Most recently, Gregor has been engaged in computational philosophy projects involving so-called neural language models (such as, e.g., GPT-2).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="blog" pack="fas" >}} Check our [blog](https://debatelab.github.io/) for updates about recent computational philosophy projects.
