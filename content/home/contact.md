@@ -13,7 +13,7 @@ Karlsruher Institut für Technologie
 
 Institut für Philosophie
 
-Geb. 09.20
+Build. 09.20
 
 Douglasstraße 24
 
