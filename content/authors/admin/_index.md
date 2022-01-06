@@ -37,7 +37,7 @@ education:
     - institution: Freie Universität Berlin
       course: Dr. phil (Ph.D.) Philosophy
       year: 2004
-    - course: Dr. phil. (Habilitation) Philosophy
+    - course: Dr. habil. (Habilitation) Philosophy
       institution: Freie Universität Berlin
       year: 2008
 email: ""
