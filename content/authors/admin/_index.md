@@ -17,8 +17,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ggbetz
-  - icon: orcid
-    icon_pack: ai
+  - icon: key
+    icon_pack: fas
     link: https://orcid.org/0000-0001-5802-5030
   - display:
       header: false
