@@ -19,7 +19,7 @@ social:
     link: https://github.com/ggbetz
   - icon: key
     icon_pack: fas
-    link: https://orcid.org/0000-0001-5802-5030
+    link: ./0x4F37BE9AE4A4C8AB.asc
   - display:
       header: false
     link: https://debatelab.github.io/
