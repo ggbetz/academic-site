@@ -48,8 +48,8 @@ highlight_name: true
 
 Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He's been studying the limits of scientific prediction, esp. in economics and climate science, the role of values in science, requirements of democratic scientific policy advice, and the ethics of climate engineering. He has developed a formal theory and computational models of argumentative debate, and applied these methods to clarify key concepts in epistemology, to interpret classical texts, to assess consensus- and truth-conduciveness of debate, as well as to to improve critical thinking teaching.
 
-For a couple of years now, Gregor has benn pursuing computational philosophy projects involving so-called large language models (such as, e.g., GPT-2).
+For a couple of years now, Gregor has been pursuing computational philosophy projects involving so-called large language models (such as, e.g., GPT-2).
 
-In 2023, Gregor has founded [Logikon AI](https://logikon.ai), a startup that applies critical thinking methods to improve generative AI.
+Moreover, in 2023, Gregor has founded [Logikon AI](https://logikon.ai), a startup that applies critical thinking methods to improve generative AI.
 
 {{< icon name="blog" pack="fas" >}} Check our [blog](https://debatelab.github.io/) for updates about recent computational philosophy projects.
