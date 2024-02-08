@@ -21,7 +21,7 @@ design:
   flip_alt_rows: false
 ---
 
-Pioneering work [<i class="fa-solid fa-book-open-reader"></i>](https://arxiv.org/abs/2103.13033) on **Chain of Thought**
+Pioneering work [{{< icon name="fa-book-open-reader" pack="fa-solid" >}}](https://arxiv.org/abs/2103.13033) on **Chain of Thought**
 — previously termed "Thinking Aloud" — that was later
 picked up by [Wei et al.](https://arxiv.org/abs/2201.11903), who demonstrated its effectiveness
 with GPT-3.
