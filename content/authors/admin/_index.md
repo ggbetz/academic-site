@@ -21,7 +21,7 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5802-5030
-  - icon: fa-linkedin-in
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gregor-betz/
   - display:
