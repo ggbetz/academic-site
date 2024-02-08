@@ -20,7 +20,10 @@ social:
     link: https://github.com/ggbetz
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0001-5802-5030    
+    link: https://orcid.org/0000-0001-5802-5030
+  - icon: fa-linkedin-in
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gregor-betz/
   - display:
       header: false
     link: https://debatelab.github.io/
