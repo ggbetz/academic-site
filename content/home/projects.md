@@ -20,7 +20,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-* DebateLab [[link]](http://debatelab.philosophie.kit.edu/)
+* CoT Leaderboard [[link]](https://huggingface.co/cot-leaderboard)
 * Argdown [[link]](https://argdown.org)
 * Making Reflective Equilibrium Precise (SNF-DFG) [[link]](https://www.philosophie.unibe.ch/research/projects/how_far_does_reflective_equilibrium_take_us/project/index_eng.html)
 * Argumentation at School (DFG Network Fund) [[link]](https://blogs.phil.hhu.de/argumentiereninderschule/)
