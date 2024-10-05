@@ -31,8 +31,8 @@ social:
     icon_pack: fas
     icon: blog
 organizations:
-  - name: Karlsruhe Institute of Technology, DebateLab
-    url: https://debatelab.philosophie.kit.edu/index.php
+  - name: Karlsruhe Institute of Technology, ComPhil2MMAE
+    url: https://compphil2mmae.github.io/
 education:
   courses:
     - institution: Freie Universität Berlin
