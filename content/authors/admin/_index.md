@@ -55,4 +55,4 @@ Before turning to GenAI, Gregor has been studying the limits of scientific predi
 
 Moreover, in 2023, Gregor has founded [Logikon AI](https://logikon.ai), a startup that applies critical thinking methods to improve generative AI.
 
-{{< icon name="blog" pack="fas" >}} Check our [blog](https://debatelab.github.io/) for updates about recent computational philosophy projects.
+{{< icon name="fa-user-plus" pack="fas" >}} Follow me on [Huggingface](https://huggingface.co/ggbetz) or [LinkedIn](https://www.linkedin.com/in/gregor-betz/) for updates about recent computational philosophy projects.
