@@ -20,6 +20,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+* Argunauts [[link]](https://huggingface.co/blog/ggbetz/argunauts-intro)
 * CoT Leaderboard [[link]](https://huggingface.co/cot-leaderboard)
 * Argdown [[link]](https://argdown.org)
 * Making Reflective Equilibrium Precise (SNF-DFG) [[link]](https://www.philosophie.unibe.ch/research/projects/how_far_does_reflective_equilibrium_take_us/project/index_eng.html)
