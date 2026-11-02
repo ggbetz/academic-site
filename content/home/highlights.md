@@ -22,8 +22,8 @@ design:
 ---
 
 Pioneering work on **Chain of Thought**
-— previously termed "Thinking Aloud" — that anticipated the chain-of-thought approach later popularised by
-[Wei et al.](https://arxiv.org/abs/2201.11903), who demonstrated its effectiveness with GPT-3.
+— previously termed "Thinking Aloud" — that anticipated the chain-of-thought approach later popularised
+by [Wei et al.](https://arxiv.org/abs/2201.11903), who demonstrated its effectiveness with GPT-3.
 [↪︎](https://arxiv.org/abs/2103.13033)
 
 **Critical Thinking for Large Language Models**: Some of the first systematic studies
